@@ -20,5 +20,5 @@
 2. Select filters required
 3. View/ Export the result.
 
-![Screen Recording GIF](https://clipchamp.com/watch/JFc9uQJy8BB)
+[Screen Recording Video Link](https://clipchamp.com/watch/JFc9uQJy8BB)
 
